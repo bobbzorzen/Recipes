@@ -2,7 +2,7 @@
 
 ##Ingredients
  * 200 grams of butter
- * 1.5 dl icing sugar
+ * 1.75 dl icing sugar
  * 4 teaspoons of vanilla sugar
  * 6 tablespoons of cacao
  * 5 dl oat meal
@@ -12,9 +12,10 @@
  * Coconut flakes/granulated sugar
 
 ##Preparation
+* Cool the coffe beforehand
 * Mix dry goods together(Sugar, cacao, oatmeal)
-* Add cold/room temperature coffee
-* Add room temperature butter
+* Add cold coffee
+* Add the butter
 * Mix it all together
 * Cool it in fridge untill it's firm enough to roll into balls
 * Roll into balls approximately 3-4 cm in diameter
