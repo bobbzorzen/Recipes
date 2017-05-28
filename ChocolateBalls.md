@@ -1,6 +1,7 @@
-Chocolate balls
-=====
-##Ingredients
+#Chocolate balls
+
+## Ingredients
+
  * 200 grams of butter
  * 1.75 dl icing sugar
  * 4 teaspoons of vanilla sugar
@@ -8,10 +9,10 @@ Chocolate balls
  * 5 dl oat meal
  * Coffee (Undetermined amount)
 
-##Toppings
+## Toppings
  * Coconut flakes/granulated sugar
 
-##Preparation
+## Preparation
 * Cool the coffe beforehand
 * Mix dry goods together(Sugar, cacao, oatmeal)
 * Add cold coffee
