@@ -14,7 +14,7 @@
  2. Dice the bellpeppers and onions and slice the chicken and place in a bowl
  3. Add the oil and seasoning to the bowl and mix untill the seasoning is evenly distributed
  4. In a casserole dish, add rice and chicken broth. Then add veggies and chicken.
- 5. Cover the dish with aluminum foil and bake for about 1 hour(until the rice is fully cooked)
+ 5. Cover the dish with aluminum foil and bake in the middle of the oven for about 1 hour(until the rice is fully cooked)
 
 ## Serving suggestions:
 Could be served in tortilla breads with some feta cheese and a sauce/dressing of your choice.
