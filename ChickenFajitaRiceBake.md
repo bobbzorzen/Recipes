@@ -10,7 +10,7 @@
  * Onion: ½
 
 ## Instructions:
- 1. Preheat the oven to 200 deg C
+ 1. Preheat the oven to 200 °C
  2. Dice the bellpeppers and onions and slice the chicken and place in a bowl
  3. Add the oil and seasoning to the bowl and mix untill the seasoning is evenly distributed
  4. In a casserole dish, add rice and chicken broth. Then add veggies and chicken.
