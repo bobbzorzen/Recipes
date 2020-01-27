@@ -1,4 +1,4 @@
-# Chicken Stroganoff with rice
+# Chicken stew with thyme and Haricots verts
 ## Ingredients
  * Potatos: 900g
  * Haricots verts: 300g
