@@ -3,11 +3,12 @@
 ## Ingredients
 
  * 200 grams of butter
- * 1.75 dl icing sugar
+ * 5 ml salt (1 kryddmått)
+ * 2 dl icing sugar
  * 4 teaspoons of vanilla sugar
  * 6 tablespoons of cacao
  * 5 dl oat meal
- * Coffee (Undetermined amount)
+ * Coffee (Undetermined amount) (instant coffee in cold water works best)
 
 ## Toppings
  * Coconut flakes/granulated sugar
