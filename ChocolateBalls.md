@@ -15,7 +15,7 @@
 
 ## Preparation
 * Cool the coffe beforehand
-* Mix dry goods together(Sugar, cacao, oatmeal)
+* Mix dry goods together(Salt, Sugar, cacao, oatmeal)
 * Add cold coffee
 * Add the butter
 * Mix it all together
