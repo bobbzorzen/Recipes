@@ -1,7 +1,8 @@
 # Pannkakor
 
 - 1 portion ca 4-5 pannkakor
-- Varje pankaka är ca 1.5 dl smet, stek i rikligt med smör.
+- Varje pannkaka är ca 1.5 dl smet, stek i rikligt med smör.
+
 
 ## Ingredienser
 - Vetemjöl: 2 dl
