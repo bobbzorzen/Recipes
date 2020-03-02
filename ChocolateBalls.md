@@ -11,7 +11,7 @@
  * Coffee (Undetermined amount) (instant coffee in cold water works best)
 
 ## Toppings
- * Coconut flakes/granulated sugar
+ * Coconut flakes/nib sugar
 
 ## Preparation
 * Cool the coffe beforehand
