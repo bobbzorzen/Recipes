@@ -10,7 +10,7 @@ Best Chocolate Chip Cookies 24 pieces
 - ½ teaspoon salt
 - 7dl all-purpose flour
 - 4.7dl semisweet chocolate chips
-- 2.4dl chopped walnuts
+- 2.4dl chopped walnuts (Can be exchanged for more chocolate)
 
 Method
 
