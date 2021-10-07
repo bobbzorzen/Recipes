@@ -4,7 +4,7 @@ Best Chocolate Chip Cookies 24 pieces
 - 2.4dl white sugar
 - 2.4dl packed brown sugar
 - 2 eggs
-- 2 teaspoons vanilla extract
+- 1 teaspoon vanilla powder
 - 1 teaspoon baking soda
 - 2 teaspoons hot water
 - ½ teaspoon salt
