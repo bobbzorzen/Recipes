@@ -1,27 +1,27 @@
+# Ingredients:
 
-Contents:
-    CAKE:
-    butter 225 g
-    milk 2 dl
-    egg 5
-    granulated sugar 4½ dl
-    all-purpose flour 6 dl
-    vanilla sugar 1½ msk
-    cacao 1¼ dl
-    bakingpowder 3 tsk
+### Cake:
+- butter 225 g
+- milk 2 dl
+- egg 5
+- granulated sugar 4½ dl
+- all-purpose flour 6 dl
+- vanilla sugar 1½ msk
+- cacao 1¼ dl
+- bakingpowder 3 tsk
 
-    TOPPING:
-    butter 75 g
-    strong coffee ¾ dl
-    cacao ½ dl
-    vanilla sugar 1½ msk
-    icing sugar 5 dl
+### TOPPING:
+- butter 75 g
+- strong coffee ¾ dl
+- cacao ½ dl
+- vanilla sugar 1½ msk
+- icing sugar 5 dl
 
-    GARNISH:
-    coconut flakes
+### GARNISH:
+- coconut flakes
 
-method
-cake:
+# Cooking instructions
+### cake:
 - put the oven on 175° (350f)
 - butter and bread a ovenform with a high edge, 25x30 cm/ or put in a bakingsheet
 - melt the butter, pour in the milk and let cool.
@@ -31,7 +31,7 @@ cake:
 - pour the mixture into the form.
 -  cook in the middle of the oven for about 20 min
 
-Topping:
+### Topping:
 - melt the butter in a pot
 - add coffee, cacao, vanilla sugar and icing sugar. Mix well
 - take the cake out of the oven, let it cool for a while.
