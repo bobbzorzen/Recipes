@@ -4,7 +4,7 @@
 * Peanutbutter(smooth): 1 Jar (400g)
 * Sugar: 1 dl
 * Vanilla sugar: 1 tsp
-* Baking syrup (clear): 2 dl
+* Baking syrup (light): 2 dl
 * Ricecrispies: 1 liter
 * Chocolate (not baking, use regular bars), milk chocolate: 300g
 * Chocolate (not baking, use regular bars), dark: 100g
