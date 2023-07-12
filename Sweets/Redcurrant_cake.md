@@ -22,7 +22,7 @@
 * Then add the currants ontop
 * Add some thin slices of butter ontop to get a crispy surface
 * Add Nib sugar for decoration and some extra sweetness
-* Cook in the middle of the oven for approximately 25 minutes
+* Cook in the middle of the oven for approximately 25-40 minutes
 
 ## Serving suggestions
  * Serve with plenty of custard
