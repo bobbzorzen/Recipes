@@ -14,9 +14,12 @@
 
 ## Cooking:
 * Heat oven to 200°
-* Melt butter, add eggs, suger and flour
+* Wisk eggs and sugar untill it's fluffy
+* Melt butter
+* Fold in the flour and butter
 * Mix untill smooth
-* Add the currants ontop
+* Mix the currants with some potato starch in a bowl
+* Then add the currants ontop
 * Add some thin slices of butter ontop to get a crispy surface
 * Add Nib sugar for decoration and some extra sweetness
 * Cook in the middle of the oven for approximately 25 minutes
