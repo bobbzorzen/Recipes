@@ -26,12 +26,12 @@
 - butter and bread a ovenform with a high edge, 25x30 cm/ or put in a bakingsheet
 - melt the butter, pour in the milk and let cool.
 - whisk egg and sugar puffy, preferably with a machine (deending on how puffy you want it you'll have to make it more or less puffy). 
-- sil ddown flour, vanilla sugar, cacao and baking powder through a coulindar. 
+- sieve down flour, vanilla sugar, cacao and baking powder into the egg/sugar mixture. 
 - add the butter milk mixture and mix to a smooth batter.
 - pour the mixture into the form.
--  cook in the middle of the oven for about 20 min
+- cook in the middle of the oven for about 20 min
 
-### Topping:
+### Topping (make while cake is baking):
 - melt the butter in a pot
 - add coffee, cacao, vanilla sugar and icing sugar. Mix well
 - take the cake out of the oven, let it cool for a while.
