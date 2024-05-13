@@ -1,5 +1,7 @@
 Roasted Potato & Garlic soup
 
+
+Ingredients:
 - 1 kg of potatos
 - 2 Shallot onions
 - 5 Heads of Garlic
