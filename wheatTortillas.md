@@ -1,22 +1,24 @@
-# homemade wheat tortillas(original from reddit)
+# Homemade Wheat Tortillas (original from Reddit)
 
-6 large burritos or 12 taco tortillas
+* Yield: 6 large burritos or 12 taco tortillas
 
-**ingredients:**
-- 345g / 6,5dl of all purpose flour
-- 1 tsp of salt
-- 75ml / 1/3 cup of vegetable oil(non-flavored oil)
-- 200 - 250ml of water
+## Ingredients
+* All-purpose flour: 6.5 dl (345 g)
+* Salt: 1 tsp
+* Vegetable oil (non-flavored): 0.75 dl (⅓ cup)
+* Water: 2-2.5 dl
 
-**Method:**
-- add the flour, salt and oil into a food processor/bowl
-- mix these ingredients until they have the consistency of wet sand, meaning that if a chunk is squeezed it will hold it's form.
-- add the water and mix until it form into a dough ball, the dough should be non-sticky with high elasticity
-- split the dough into equal parts, 6 large burritos or 12 taco tortillas
-- roll the dough into balls
-- put the balls onto a plate and cover with plastic and let rest for 30 mins in room temperature
-- heat a pan to medium heat
-- after the dough has had time to rest roll out each ball so they become about 1-2mm thick and to the closest proximity to circles you can get.
-    - (alt. roll one out while one is in the pan)
-- add one by one to the pan, when the dough start to ballon flip it. Let fry for about 25-30 seconds to each side. 
-- take out of the pan whn nicely colored on both sides and put in kitchen towel to keep warm before serving
+## Instructions
+1. Add the flour, salt and oil to a food processor/bowl
+2. Mix until the consistency is like wet sand, meaning that a squeezed chunk holds its form
+3. Add the water and mix until it forms a dough ball. The dough should be non-sticky with high elasticity
+4. Split the dough into equal parts: 6 for large burritos or 12 for taco tortillas
+5. Roll the dough into balls
+6. Put the balls on a plate, cover with plastic and let rest for 30 minutes at room temperature
+7. Heat a pan to medium heat
+8. Roll out each ball until it is about 1-2 mm thick and as close to a circle as you can get
+9. Add the tortillas to the pan one by one. When the dough starts to balloon, flip it. Fry for about 25-30 seconds on each side
+10. Take out of the pan when nicely colored on both sides and put in a kitchen towel to keep warm before serving
+
+## Notes
+* Alternatively, roll out one tortilla while another is in the pan

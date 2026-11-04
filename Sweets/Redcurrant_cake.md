@@ -1,28 +1,29 @@
-# Redcurrant cake
+# Redcurrant Cake
 
 ## Ingredients
-* Butter: 150g
+* Butter: 150 g
 * Eggs: 6
 * Sugar: 4 dl
-* Vanillasuger: 2 tsp
+* Vanilla sugar: 2 tsp
 * Flour: 5 dl
 * Redcurrants: 5 dl
+* Potato starch: some (to mix with the currants)
 
-  ### Topping
-  * Slices of butter
-  * Nib sugar
+### Topping
+* Slices of butter
+* Nib sugar
 
-## Cooking:
-* Heat oven to 200°
-* Wisk eggs and sugar untill it's fluffy
-* Melt butter
-* Fold in the flour and butter
-* Mix untill smooth
-* Mix the currants with some potato starch in a bowl
-* Then add the currants ontop
-* Add some thin slices of butter ontop to get a crispy surface
-* Add Nib sugar for decoration and some extra sweetness
-* Cook in the middle of the oven for approximately 25-40 minutes
+## Instructions
+1. Heat the oven to 200 °C
+2. Whisk the eggs and sugar until fluffy
+3. Melt the butter
+4. Fold in the flour and the butter
+5. Mix until smooth
+6. Mix the currants with some potato starch in a bowl
+7. Add the currants on top
+8. Add some thin slices of butter on top to get a crispy surface
+9. Add nib sugar for decoration and some extra sweetness
+10. Bake in the middle of the oven for approximately 25-40 minutes
 
 ## Serving suggestions
- * Serve with plenty of custard
+* Serve with plenty of custard

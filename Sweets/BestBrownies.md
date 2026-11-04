@@ -1,24 +1,29 @@
-Best Brownies 16 pieces
+# Best Brownies
 
-cake part:
-- 1.2dl butter
-- 2.4dl white sugar
-- 2 eggs
-- 1 teaspoon vanilla extract
-- 0.8dl unsweetened cocoa powder
-- 1.1dl cup all-purpose flour
-- ¼ teaspoon salt
-- ¼ teaspoon baking powder
+* Yield: 16 pieces
 
-Frosting:
-- 3 tablespoons butter, softened
-- 3 tablespoons unsweetened cocoa powder
-- 1 tablespoon honey
-- 1 teaspoon vanilla extract
-- 2.4dl cup confectioners' sugar
+## Ingredients
+### Cake
+* Butter: 1.2 dl
+* White sugar: 2.4 dl
+* Eggs: 2
+* Vanilla powder: ½ tsp
+* Unsweetened cocoa powder: 0.8 dl
+* All-purpose flour: 1.1 dl
+* Salt: ¼ tsp
+* Baking powder: ¼ tsp
 
-Method
-- Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan.
-- In a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking       powder. Spread batter into prepared pan.
-- Bake in preheated oven for 25 to 30 minutes. Do not overcook.
-- To Make Frosting: Combine 3 tablespoons softened butter, 3 tablespoons cocoa, honey, 1 teaspoon vanilla extract, and 1 cup confectioners' sugar. Stir until smooth.       Frost brownies while they are still warm.
+### Frosting
+* Butter (softened): 3 tbsp
+* Unsweetened cocoa powder: 3 tbsp
+* Honey: 1 tbsp
+* Vanilla powder: ½ tsp
+* Icing sugar: 2.4 dl
+
+## Instructions
+1. Preheat the oven to 175 °C. Grease and flour a 20 cm square pan
+2. In a large saucepan, melt the 1.2 dl butter. Remove from the heat and stir in the sugar, eggs and ½ tsp vanilla powder
+3. Beat in the 0.8 dl cocoa, 1.1 dl flour, salt and baking powder. Spread the batter into the prepared pan
+4. Bake in the preheated oven for 25-30 minutes. Do not overcook
+5. To make the frosting: combine the 3 tbsp softened butter, 3 tbsp cocoa, honey, ½ tsp vanilla powder and 2.4 dl icing sugar. Stir until smooth
+6. Frost the brownies while they are still warm

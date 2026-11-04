@@ -1,25 +1,24 @@
-# Chocolate balls
+# Chocolate Balls
 
 ## Ingredients
+* Butter: 200 g
+* Salt: 1 ml (1 krm)
+* Icing sugar: 2 dl
+* Vanilla sugar: 4 tsp
+* Cacao: 6 tbsp
+* Rolled oats: 5 dl
+* Coffee: 3 tbsp (tentative amount; instant coffee in cold water works best)
 
- * 200 grams of butter
- * 1 ml salt (1 krm)
- * 2 dl icing sugar
- * 4 teaspoons of vanilla sugar
- * 6 tablespoons of cacao
- * 5 dl rolled oats
- * Coffee (3 tblsp tentative amount) (instant coffee in cold water works best)
+### Toppings
+* Coconut flakes/nib sugar
 
-## Toppings
- * Coconut flakes/nib sugar
-
-## Preparation
-* Cool the coffe beforehand
-* Mix dry goods together(Salt, Sugar, cacao, oatmeal)
-* Add cold coffee
-* Add the butter
-* Mix it all together
-* Cool it in fridge untill it's firm enough to roll into balls
-* Roll into balls approximately 3-4 cm in diameter
-* Roll the balls in turn in the topping
-* Cool in fridge untill the balls have hardened
+## Instructions
+1. Cool the coffee beforehand
+2. Mix the dry goods together (salt, sugar, cacao, rolled oats)
+3. Add the cold coffee
+4. Add the butter
+5. Mix it all together
+6. Cool it in the fridge until it's firm enough to roll into balls
+7. Roll into balls approximately 3-4 cm in diameter
+8. Roll the balls in turn in the topping
+9. Cool in the fridge until the balls have hardened

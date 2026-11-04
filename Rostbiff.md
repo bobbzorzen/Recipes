@@ -1,30 +1,30 @@
-# Rostbiff
-## Ingredienser
- * Flingsalt: 2 msk
- * Paprikapulver: 1.5 msk
- * Rosépeppar(*krossad/grovmalen*): 2 msk
- * Färsk rosmarin(*hackad*): 2 msk
- * Färsk rosmarin(*hela kvistar*): valfri mängd
- * Vitlöksklyftor(*pressade*): 4 st
- * Vitlöksklyftor(*oskalade*): valfri mängd
- * Smör: 2 msk
- * Olja: 1 msk
- * Rostbiff: 1.8 kg
+# Roast Beef (Rostbiff)
 
+## Ingredients
+* Flaky sea salt (flingsalt): 2 tbsp
+* Paprika powder: 1.5 tbsp
+* Pink peppercorns (crushed/coarsely ground): 2 tbsp
+* Fresh rosemary (chopped): 2 tbsp
+* Fresh rosemary (whole sprigs): as much as you like
+* Garlic (pressed): 4 cloves
+* Garlic (unpeeled): as many cloves as you like
+* Butter: 2 tbsp
+* Oil: 1 tbsp
+* Roast beef: 1.8 kg
 
-## Tillagning:
- 1. Blanda salt, paprikapulver, peppar, rosmarin(hackad) och vitlök(pressad)
- 2. Klappa/knåda in kryddblandningen i steken
- 3. Låt en stekpanna bli riktigt het och sätt på ugnen på 150 grader C
- 4. Lägg i smör och olja och bryn rostbiffen runt om för att få en bra stekyta
- 5. Lägg biffen i en ugnssäker form eller långpanna
- 6. Omringa biffen med de oskalade vitlöksklyftorna och rosmarin kvistarna.
- 7. Tillaga biffen i nedre delen av ugnen tills innertemperaturen är 58 grader(beräknas ta ca 2h)
+## Instructions
+1. Mix the salt, paprika powder, pepper, chopped rosemary and pressed garlic
+2. Pat/knead the spice mix into the roast
+3. Let a frying pan get really hot and set the oven to 150 °C
+4. Add the butter and oil and brown the roast on all sides to get a good crust
+5. Place the roast in an ovenproof dish or roasting pan
+6. Surround the roast with the unpeeled garlic cloves and the rosemary sprigs
+7. Cook the roast in the lower part of the oven until the internal temperature is 58 °C (expect about 2 hours)
 
-## Serveringsförslag:
-Passar utmärkt till potatis och sås, förslagsvis potatisgrattäng eller pommes chateau. 
-Rekomenderar starkt Jensens färdiga pepparsås!
+## Serving suggestions
+* Goes great with potatoes and sauce, for example potato gratin or pommes chateau
+* Highly recommend Jensen's ready-made pepper sauce!
 
-## PRO TIPS
-För extra  smakrik biff så kan man marinera biffen i kryddblandningen över natten
-För bästa stekresultat så bör biffen vara någorlunda rumstempurerad innan tillagning
+## Notes
+* For an extra flavorful roast, marinate it in the spice mix overnight
+* For the best result, the roast should be at room temperature before cooking

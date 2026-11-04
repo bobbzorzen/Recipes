@@ -1,23 +1,25 @@
-Fried rice with vedgetables and eggs
+# Fried Rice with Vegetables and Eggs
 
-- 3 dl basmati Rice/ parboiled rice
-- 1 carrot
-- 1 red bell pepper
-- 250 g sugar peas
-- 2 green onions
-- 2 msk vegetable oil
-- 1 1/2 tsk salt
-- 1 krm pepper
-- 1 - 1 1/2 msk soy (japanese)
-- 1 tablespoon sambal oelek
-- 3 eggs
+## Ingredients
+* Basmati rice or parboiled rice: 3 dl
+* Carrot: 1
+* Red bell pepper: 1
+* Sugar snap peas: 250 g
+* Green onions: 2
+* Vegetable oil: 2 tbsp
+* Salt: 1½ tsp
+* Pepper: 1 ml (1 krm)
+* Soy sauce (Japanese): 1-1½ tbsp
+* Sambal oelek: 1 tbsp
+* Eggs: 3
 
-Method
-- Boil the rice as instructed on the package.
-- peel the carrot. Cut and take out the seeds from the bell pepper. cut the carrot, bell pepper, sugar peas and the green onions in strips.
-- fry the vedgetables in oil in a big frying pan for about 3 minutes. flavour it with salt and peppar. Pour on the soy sauce.
-- add the boiled rice and the sambal. Stir.
-- crack the eggs over the vegetablerice. Stir until the rice get a creamy conistency.
-Notes
-- Add meats to the fried rice, simply fry the meat, season with salt and pepper, before the vegetables and put aside.
-- you can also used left over rice.
+## Instructions
+1. Boil the rice as instructed on the package
+2. Peel the carrot. Cut the bell pepper and remove the seeds. Cut the carrot, bell pepper, sugar snap peas and green onions into strips
+3. Fry the vegetables in oil in a big frying pan for about 3 minutes. Season with salt and pepper, then pour on the soy sauce
+4. Add the boiled rice and the sambal oelek. Stir
+5. Crack the eggs over the vegetable rice and stir until the rice gets a creamy consistency
+
+## Notes
+* To add meat, fry the meat before the vegetables, season it with salt and pepper, and put it aside. Add it back with the rice
+* You can also use leftover rice

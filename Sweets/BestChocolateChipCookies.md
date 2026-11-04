@@ -1,24 +1,26 @@
-Best Chocolate Chip Cookies 24 pieces
+# Best Chocolate Chip Cookies
 
-- 2.4dl butter, softened
-- 2.4dl white sugar
-- 2.4dl packed brown sugar
-- 2 eggs
-- 1 teaspoon vanilla powder
-- 1 teaspoon baking soda
-- 2 teaspoons hot water
-- ½ teaspoon salt
-- 7dl all-purpose flour
-- 4.7dl semisweet chocolate chips
-- 2.4dl chopped walnuts (Can be exchanged for more chocolate)
+* Yield: 24 pieces
 
-Method
+## Ingredients
+* Butter (softened): 2.4 dl
+* White sugar: 2.4 dl
+* Brown sugar (packed): 2.4 dl
+* Eggs: 2
+* Vanilla powder: 1 tsp
+* Baking soda: 1 tsp
+* Hot water: 2 tsp
+* Salt: ½ tsp
+* All-purpose flour: 7 dl
+* Semisweet chocolate chips: 4.7 dl
+* Chopped walnuts: 2.4 dl (can be exchanged for more chocolate)
 
-- Preheat oven to 350 degrees F (175 degrees C)
-- Cream together the butter, white sugar, and brown sugar until smooth. 
-- Beat in the eggs one at a time, then stir in the vanilla. 
-- Dissolve baking soda in hot water. Add to batter along with salt. 
-- Stir in flour, chocolate chips, and nuts. 
-- Drop by large spoonfuls onto baking sheets covered in baking paper.
-- For extra chewy cookies, refridgerate the batter balls for approximately 3 hours before cooking them
-- Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.
+## Instructions
+1. Preheat the oven to 175 °C
+2. Cream together the butter, white sugar and brown sugar until smooth
+3. Beat in the eggs one at a time, then stir in the vanilla
+4. Dissolve the baking soda in the hot water. Add to the batter along with the salt
+5. Stir in the flour, chocolate chips and nuts
+6. Drop by large spoonfuls onto baking sheets covered in baking paper
+7. For extra chewy cookies, refrigerate the batter balls for approximately 3 hours before baking them
+8. Bake for about 10 minutes in the preheated oven, or until the edges are nicely browned

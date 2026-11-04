@@ -1,18 +1,22 @@
-Ultimate twice baked potatoes
+# Ultimate Twice Baked Potatoes
 
-- 4 large baking potatoes
-- 8 slices bacon
-- 2.4dl sour cream
-- 1.2dl milk
-- 4 tablespoons butter
-- ½ teaspoon salt
-- ½ teaspoon pepper
-- 2.4dl cup shredded "präst ost" or any other flavorrish cheese
-- 8 green onions, sliced, divided
+## Ingredients
+* Large baking potatoes: 4
+* Bacon: 8 slices
+* Sour cream: 2.4 dl
+* Milk: 1.2 dl
+* Butter: 4 tbsp
+* Salt: ½ tsp
+* Pepper: ½ tsp
+* Shredded cheese (e.g. präst ost, or any other flavorful cheese): 2.4 dl
+* Green onions (sliced, divided): 8
 
-Method
-- Preheat oven to 350 degrees F (175 degrees C).
-- Bake potatoes in preheated oven for 1 hour, or until they're done.
-- Meanwhile, place bacon in a large, deep skillet. Cook over medium high heat until evenly brown. Drain, crumble and set aside.
-- When potatoes are done allow them to cool for 10 minutes. Slice potatoes in half lengthwise and scoop the flesh into a large bowl; save skins. To the potato flesh add sour cream, milk, butter, salt, pepper, 1/2 cup cheese and 1/2 the green onions. Mix with a hand mixer until well blended and creamy. Spoon the mixture into the potato skins. Top each with remaining cheese, green onions and bacon.
-- Bake for another 15 minutes.
+## Instructions
+1. Preheat the oven to 175 °C
+2. Bake the potatoes in the preheated oven for 1 hour, or until they're done
+3. Meanwhile, place the bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble and set aside
+4. When the potatoes are done, allow them to cool for 10 minutes
+5. Slice the potatoes in half lengthwise and scoop the flesh into a large bowl. Save the skins
+6. Add the sour cream, milk, butter, salt, pepper, 1.2 dl of the cheese and half of the green onions to the potato flesh. Mix with a hand mixer until well blended and creamy
+7. Spoon the mixture into the potato skins. Top each with the remaining cheese, green onions and bacon
+8. Bake for another 15 minutes

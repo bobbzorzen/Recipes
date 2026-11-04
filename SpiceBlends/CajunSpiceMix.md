@@ -1,14 +1,16 @@
-Cajun Spice Mix
+# Cajun Spice Mix
 
-- 2 teaspoons salt
-- 2 teaspoons garlic powder
-- 2 ½ teaspoons paprika
-- 1 teaspoon ground black pepper
-- 1 teaspoon onion powder
-- 1 teaspoon cayenne pepper
-- 1 ¼ teaspoons dried oregano
-- 1 ¼ teaspoons dried thyme
-- ½ teaspoon red pepper flakes (Optional)
+## Ingredients
+* Salt: 2 tsp
+* Garlic powder: 2 tsp
+* Paprika: 2½ tsp
+* Ground black pepper: 1 tsp
+* Onion powder: 1 tsp
+* Cayenne pepper: 1 tsp
+* Dried oregano: 1¼ tsp
+* Dried thyme: 1¼ tsp
+* Red pepper flakes: ½ tsp (optional)
 
-Method
-- Stir together salt, garlic powder, paprika, black pepper, onion powder, cayenne pepper, oregano, thyme, and red pepper flakes until evenly blended. Store in an airtight container.
+## Instructions
+1. Stir together the salt, garlic powder, paprika, black pepper, onion powder, cayenne pepper, oregano, thyme and red pepper flakes until evenly blended
+2. Store in an airtight container
