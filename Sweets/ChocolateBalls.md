@@ -3,7 +3,7 @@
 ## Ingredients
 
  * 200 grams of butter
- * 5 ml salt (1 kryddmått)
+ * 1 ml salt (1 krm)
  * 2 dl icing sugar
  * 4 teaspoons of vanilla sugar
  * 6 tablespoons of cacao
