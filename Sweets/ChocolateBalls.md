@@ -8,7 +8,7 @@
  * 4 teaspoons of vanilla sugar
  * 6 tablespoons of cacao
  * 5 dl rolled oats
- * Coffee (Undetermined amount) (instant coffee in cold water works best)
+ * Coffee (3 tblsp tentative amount) (instant coffee in cold water works best)
 
 ## Toppings
  * Coconut flakes/nib sugar
